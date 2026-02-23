@@ -34,7 +34,7 @@ Abaixo, os registros das etapas concluídas com sucesso:
 
 ### 1. Transcrição de Áudio (Whisper)
 Nesta etapa, o sistema converteu com precisão a fala: *"Olá, gostaria de saber mais sobre os investimentos do Bradesco."*
-(![Legenda da Imagem](img/Reconhecimento de Fala com Whisper (OpenAI).PNG))
+((img/Reconhecimento de Fala com Whisper (OpenAI).PNG))
 
 ### 2. Lógica de Atendimento Prime
 Resposta inteligente estruturada com foco na experiência do cliente Bradesco.
