@@ -34,15 +34,15 @@ Abaixo, os registros das etapas concluídas com sucesso:
 
 ### 1. Transcrição de Áudio (Whisper)
 Nesta etapa, o sistema converteu com precisão a fala: *"Olá, gostaria de saber mais sobre os investimentos do Bradesco."*
-![Transcrição Whisper](![Legenda da Imagem](img/Reconhecimento de Fala com Whisper (OpenAI).PNG))
+(![Legenda da Imagem](img/Reconhecimento de Fala com Whisper (OpenAI).PNG))
 
 ### 2. Lógica de Atendimento Prime
 Resposta inteligente estruturada com foco na experiência do cliente Bradesco.
-![Lógica de Resposta](![Legenda da Imagem](img/Integração com a API do ChatGPT.PNG))
+(![Legenda da Imagem](img/Integração com a API do ChatGPT.PNG))
 
 ### 3. Síntese de Voz Final
 O resultado final pronto para o consumo do usuário.
-![Player de Áudio](![Legenda da Imagem](img/Sintetizando a Resposta do ChatGPT Como Voz (gTTS).PNG))
+(![Legenda da Imagem](img/Sintetizando a Resposta do ChatGPT Como Voz (gTTS).PNG))
 
 ---
 
