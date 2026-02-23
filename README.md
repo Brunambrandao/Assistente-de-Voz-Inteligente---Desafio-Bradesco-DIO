@@ -1,4 +1,4 @@
-# Assistente de Voz Inteligente: Personal Banco Bradesco Prime 🎙️🤖
+# Assistente de Voz Inteligente: Personal Banker Bradesco Prime 🎙️🤖
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
